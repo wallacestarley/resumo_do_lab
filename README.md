@@ -9,10 +9,15 @@ Ele permite que empresas e desenvolvedores criem, implantem e gerenciem aplicati
 Dentre os principais componentes são:
 
 Máquinas Virtuais (VMs): Permitem que você execute sistemas operacionais e aplicativos em um ambiente virtualizado.
+
 Armazenamento: Oferece soluções de armazenamento escaláveis para dados, arquivos e blobs.
+
 Banco de Dados: Inclui serviços como Azure SQL Database e Cosmos DB para gerenciar dados de forma eficaz.
+
 Serviços de Rede: Conecta recursos na nuvem com segurança e eficiência, incluindo VPNs e Azure CDN.
+
 Inteligência Artificial e Machine Learning: Ferramentas para criar e treinar modelos de IA.
+
 DevOps: Serviços que ajudam na automação e na colaboração entre equipes de desenvolvimento e operações.
 
 Primeiro devemos criar uma conta para ter uma quantidade de creditos gratuitos para poder testar o Azure, mas com cuidado para não exeder o limite e ter custos
